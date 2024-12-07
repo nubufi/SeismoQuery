@@ -1,0 +1,27 @@
+# Flask for backend API
+flask
+
+# Gradio for frontend interface
+gradio
+
+# LangChain for RAG pipeline and vector database interactions
+langchain
+
+# FAISS for vector database
+faiss-cpu
+
+# Transformers for Llama or other language model
+transformers
+
+# Hugging Face Hub for pre-trained model integration
+huggingface-hub
+
+# SentencePiece for tokenization (required by many LLMs)
+sentencepiece
+sentence-transformers
+# Python-dotenv for managing environment variables (optional, but useful)
+python-dotenv
+
+pymupdf4llm
+
+langchain-community
